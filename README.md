@@ -54,6 +54,19 @@ export class CatsController {
   }
 }
 ```
+
+---
+### Operators
+
+```bash
+  create
+  find
+  findById
+  findAll
+  remove
+  updateOne
+  updateMany
+```
 #### Lib types
 ```ts
 
