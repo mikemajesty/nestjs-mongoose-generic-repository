@@ -1,0 +1,26 @@
+{
+  "name": "nestjs-mongoose-generic-repository",
+  "version": "0.0.1",
+  "description": "Generic mongoose repository",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "author": "Mike Lima <mike.rodrigues.lima@gmail.com>",
+  "homepage": "https://github.com/mikemajesty/nestjs-mongoose-generic-repository#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikemajesty/nestjs-mongoose-generic-repository.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@nestjs/mongoose": "^9.0.1",
+    "mongoose": "^6.1.2"
+  },
+  "bugs": {
+    "url": "https://github.com/mikemajesty/nestjs-mongoose-generic-repository/issues"
+  },
+  "devDependencies": {
+  }
+}
